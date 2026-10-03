@@ -1,4 +1,4 @@
-; Assemble the file: nasm -f elf64 hello_world_64.asm -o hello_world_64.o
+git; Assemble the file: nasm -f elf64 hello_world_64.asm -o hello_world_64.o
 ; Link:              ld hello_world_64.o -o hello64
 ; Run:               ./hello64
 
