@@ -5,7 +5,7 @@
 section .data
     num1 db 120   ; 01111000b
     num2 db 10    ; 00001010b
-    result db 0   ; 10000010
+    result db 0   ; 10000010 - sign flag change
 
 section .text
     global _start

@@ -1,3 +1,4 @@
+
 section .data
     num1 dw 0xFFFF ; 1111111111111111   65535
     num2 dw 1
